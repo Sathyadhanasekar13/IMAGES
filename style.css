@@ -5,7 +5,7 @@ body {
   background-color: #f0f0f0;
 }
 .container {
-  min-width: 320px; /* Set a minimum width */
+  min-width: 320px; 
   display: flex;
   justify-content: center;
   align-items: center;
